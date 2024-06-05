@@ -1,6 +1,10 @@
 ## Sobre 👋
 
 Doutora em Ciência da Computação pela Universidade Federal de Pelotas (2023), mestre em Engenharia da Computação pela Universidade Federal do Rio Grande (2017). Graduação em Sistema de Informação pela Universidade Federal do Rio Grande (2014) e Tecnóloga em Sistemas para Internet pela Faculdade Anhanguera (2010).
+
+🥖 http://lattes.cnpq.br/2313361989285532
+📘 https://www.linkedin.com/in/narusci-bastos-5a8114267/
+
 <!--
 **Icsuran/Icsuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
